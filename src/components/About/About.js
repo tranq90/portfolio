@@ -9,7 +9,7 @@ class About extends Component {
                 <h1>About</h1>
                 <div className="images">
                     <div className="fast">
-                        <img src="https://image.flaticon.com/icons/png/512/55/55240.png"></img>
+                        <img className="imgs" src="https://image.flaticon.com/icons/png/512/55/55240.png"></img>
                         <Typography variant="h4">
                             <b>Fast</b>
                         </Typography>
@@ -18,7 +18,7 @@ class About extends Component {
                     </Typography>
                     </div>
                     <div className="responsive">
-                        <img src="http://simpleicon.com/wp-content/uploads/responsive-design.png"></img>
+                        <img className="imgs" src="http://simpleicon.com/wp-content/uploads/responsive-design.png"></img>
                         <Typography variant="h4">
                             <b>Responsive</b>
                         </Typography>
@@ -27,7 +27,7 @@ class About extends Component {
                     </Typography>
                     </div>
                     <div className="dynamic">
-                        <img src="https://static.thenounproject.com/png/51218-200.png"></img>
+                        <img className="imgs" src="https://static.thenounproject.com/png/51218-200.png"></img>
                         <Typography variant="h4">
                             <b>Dynamic</b>
                         </Typography>
@@ -41,8 +41,8 @@ class About extends Component {
                         <li>HTML</li>
                         <li>CSS</li>
                         <li>Javascript</li>
-                        <li>React</li>
-                        <li>Angular</li>
+                        <li>Angular/ MEAN</li>
+                        <li>React/ MERN</li>
                         <li>Ruby on Rails</li>
                         <li>PHP</li>
                     </ul>

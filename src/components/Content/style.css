@@ -23,7 +23,7 @@
     display: inline-block;
 }
 
-img{
+.imgs{
     height: 150px;
     width: 150px;
     margin-left: 125px;
@@ -41,11 +41,30 @@ img{
 .projects {
     height: 1080px;
     width: 1920px;
+    text-align: center;
+    font-size: 27px;
     background-color: #F5F5F5;
+}
+.card1 {
+    padding-left: 100px;
+    display: inline-block;
+}
+
+.card2{
+    padding-left: 100px;
+    display: inline-block;
+}
+
+.card3 {
+    padding-left: 100px;
+    display: inline-block;
 }
 .contact {
     height: 500px;
     width: 1920px;
+    text-align: center;
+    font-size: 27px;
+    color: white;
     background-color: #262934;
 }
 .footer {
