@@ -1,0 +1,74 @@
+.home {
+    height: 1080px;
+    width: 1920px;
+    background-color: #262934;
+    text-align: center;
+    color: white;
+    padding-top: 350px;
+}
+#myName {
+    color: rgb(236, 44, 44);
+}
+.about {
+    height: 1080px;
+    width: 1920px;
+    background-color: #FFFFFE;
+    text-align: center;
+    font-size: 27px;
+    display: inline-block;
+}
+
+.list{
+    padding-top: 150px;
+    display: inline-block;
+}
+
+.imgs{
+    height: 150px;
+    width: 150px;
+    margin-left: 125px;
+    margin-right: 125px;
+}
+.fast {
+    display:inline-block;
+}
+.responsive {
+    display:inline-block;
+}
+.dynamic {
+    display:inline-block;
+}
+.projects {
+    height: 1080px;
+    width: 1920px;
+    text-align: center;
+    font-size: 27px;
+    background-color: #F5F5F5;
+}
+.card1 {
+    padding-left: 100px;
+    display: inline-block;
+}
+
+.card2{
+    padding-left: 100px;
+    display: inline-block;
+}
+
+.card3 {
+    padding-left: 100px;
+    display: inline-block;
+}
+.contact {
+    height: 500px;
+    width: 1920px;
+    text-align: center;
+    font-size: 27px;
+    color: white;
+    background-color: #262934;
+}
+.footer {
+    height: 250px;
+    width: 1920px;
+    background-color: #1B2530;
+}
