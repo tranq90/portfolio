@@ -1,16 +1,14 @@
 import React, { Component } from 'react';
 import Content from "./components/Content/Content";
-import Navbar from "./components/Navbar/Navbar";
+import Navigation from './components/Navbar/Navbar';
 
 class App extends Component {
   render() {
     return (
-      <div className="Portfolio">
-        <React.Fragment>
-          <Navbar/>
-          <Content/>
-        </React.Fragment>
-      </div>
+      <React.Fragment>
+        <Navigation />
+        <Content />
+      </React.Fragment>
     );
   }
 }

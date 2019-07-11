@@ -1,7 +1,13 @@
-.welcome {
+.home {
     height: 1000px;
     width: 1920px;
     background-color: #262934;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+#myName {
+    color: rgb(236, 44, 44);
 }
 .about {
     height: 1000px;
@@ -22,9 +28,4 @@
     height: 250px;
     width: 1920px;
     background-color: #1B2530;
-}
-p {
-    font-size: 40px;
-    color: white;
-    text-align: center;
 }
