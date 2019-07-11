@@ -1,0 +1,30 @@
+.welcome {
+    height: 1000px;
+    width: 1920px;
+    background-color: #262934;
+}
+.about {
+    height: 1000px;
+    width: 1920px;
+    background-color: #FFFFFE;
+}
+.projects {
+    height: 1000px;
+    width: 1920px;
+    background-color: #F5F5F5;
+}
+.contact {
+    height: 500px;
+    width: 1920px;
+    background-color: #262934;
+}
+.footer {
+    height: 250px;
+    width: 1920px;
+    background-color: #1B2530;
+}
+p {
+    font-size: 40px;
+    color: white;
+    text-align: center;
+}
