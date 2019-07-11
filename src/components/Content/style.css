@@ -1,21 +1,45 @@
 .home {
-    height: 1000px;
+    height: 1080px;
     width: 1920px;
     background-color: #262934;
     text-align: center;
     color: white;
-    font-size: 30px;
+    padding-top: 350px;
 }
 #myName {
     color: rgb(236, 44, 44);
 }
 .about {
-    height: 1000px;
+    height: 1080px;
     width: 1920px;
     background-color: #FFFFFE;
+    text-align: center;
+    font-size: 27px;
+    display: inline-block;
+}
+
+.list{
+    padding-top: 150px;
+    display: inline-block;
+}
+
+img{
+    height: 150px;
+    width: 150px;
+    margin-left: 125px;
+    margin-right: 125px;
+}
+.fast {
+    display:inline-block;
+}
+.responsive {
+    display:inline-block;
+}
+.dynamic {
+    display:inline-block;
 }
 .projects {
-    height: 1000px;
+    height: 1080px;
     width: 1920px;
     background-color: #F5F5F5;
 }
