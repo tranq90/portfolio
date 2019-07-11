@@ -51,47 +51,22 @@ export default function ImgMediaCard() {
                     <CardActionArea>
                         <CardMedia
                             component="img"
-                            height="140"
-                            image="https://s3.amazonaws.com/assets-of-websites/pages/245902/service_images/20795/original/basename.jpg?1526073832"
-                            title="Beauty Lounge By Gilena"
+                            height="165"
+                            image="https://i.vimeocdn.com/video/670181029_295x166.jpg"
+                            title="Nomad's Coat"
                         />
                         <CardContent>
                             <Typography gutterBottom variant="h5" component="h2">
-                                Beauty Lounge By Gilena
+                                Nomad's Coat
                         </Typography>
                             <Typography variant="body2" color="textSecondary" component="p">
-                                A purely front-end website built in MEAN. Used as a storefront to view services and book reservations
+                                Customized Shopify website to get exactly what the client wanted
                          </Typography>
                         </CardContent>
                     </CardActionArea>
                     <CardActions>
                         <Button size="small" color="primary">
-                            <a href="http://www.beautyloungebygilena.com">www.beautyloungebygilena.com</a>
-                        </Button>
-                    </CardActions>
-                </Card>
-            </div>
-            <div className="card3">
-                <Card className={classes.card}>
-                    <CardActionArea>
-                        <CardMedia
-                            component="img"
-                            height="140"
-                            image="https://s3.amazonaws.com/assets-of-websites/pages/245902/service_images/20795/original/basename.jpg?1526073832"
-                            title="Beauty Lounge By Gilena"
-                        />
-                        <CardContent>
-                            <Typography gutterBottom variant="h5" component="h2">
-                                Beauty Lounge By Gilena
-                        </Typography>
-                            <Typography variant="body2" color="textSecondary" component="p">
-                                A purely front-end website built in MEAN. Used as a storefront to view services and book reservations
-                         </Typography>
-                        </CardContent>
-                    </CardActionArea>
-                    <CardActions>
-                        <Button size="small" color="primary">
-                            <a href="http://www.beautyloungebygilena.com">www.beautyloungebygilena.com</a>
+                            <a href="http://www.nomadscoat.com">www.nomadscoat.com</a>
                         </Button>
                     </CardActions>
                 </Card>
