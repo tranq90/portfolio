@@ -40,9 +40,7 @@ export default function ImgMediaCard() {
                         </CardContent>
                     </CardActionArea>
                     <CardActions>
-                        <Button component="a" href="http://www.beautyloungebygilena.com" size="small" color="primary">
-                            www.beautyloungebygilena.com
-                        </Button>
+                        www.beautyloungebygilena.com
                     </CardActions>
                 </Card>
             </div>
