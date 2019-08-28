@@ -40,8 +40,8 @@ export default function ImgMediaCard() {
                         </CardContent>
                     </CardActionArea>
                     <CardActions>
-                        <Button size="small" color="primary">
-                            <a href="http://www.beautyloungebygilena.com">www.beautyloungebygilena.com</a>
+                        <Button component="a" href="http://www.beautyloungebygilena.com" size="small" color="primary">
+                            www.beautyloungebygilena.com
                         </Button>
                     </CardActions>
                 </Card>
@@ -66,7 +66,32 @@ export default function ImgMediaCard() {
                     </CardActionArea>
                     <CardActions>
                         <Button size="small" color="primary">
-                            <a href="http://www.nomadscoat.com">www.nomadscoat.com</a>
+                            www.nomadscoat.com
+                        </Button>
+                    </CardActions>
+                </Card>
+            </div>
+            <div className="card3">
+                <Card className={classes.card}>
+                    <CardActionArea>
+                        <CardMedia
+                            component="img"
+                            height="165"
+                            image="https://s3.amazonaws.com/poly-screenshots.angel.co/enhanced_screenshots/1201862-original.png"
+                            title="ShowRooms"
+                        />
+                        <CardContent>
+                            <Typography gutterBottom variant="h5" component="h2">
+                                ShowRooms
+                        </Typography>
+                            <Typography variant="body2" color="textSecondary" component="p">
+                                TV Show information website with email or text notifications for show times.
+                         </Typography>
+                        </CardContent>
+                    </CardActionArea>
+                    <CardActions>
+                        <Button size="small" color="primary">
+                            www.showrooms.com
                         </Button>
                     </CardActions>
                 </Card>
@@ -74,3 +99,5 @@ export default function ImgMediaCard() {
         </div>
     );
 }
+
+

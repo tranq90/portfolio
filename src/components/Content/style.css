@@ -74,50 +74,127 @@
     background-color: #1B2530;
 }
 
-@media only screen and (min-width: 600px){
+@media only screen and (min-width: 640px){
     .home {
-        width: 600px;
+        width: 640px;
     }
     .about{
-        width: 600px;
+        width: 640px;
     }
     .projects{
-        width: 600px;
+        width: 640px;
     }
     .contact{
-        width: 600px;
+        width: 640px;
     }
 }
 
-@media only screen and (min-width: 900px){
+@media only screen and (min-width: 800px){
     .home {
-        width: 900px;
+        width: 800px;
     }
     .about{
-        width: 900px;
+        width: 800px;
     }
     .projects{
-        width: 900px;
+        width: 800px;
     }
     .contact{
-        width: 900px;
+        width: 800px;
     }
 }
 
-@media only screen and (min-width: 1200px){
+@media only screen and (min-width: 960px){
     .home {
-        width: 1200px;
+        width: 960px;
     }
     .about{
-        width: 1200px;
+        width: 960px;
     }
     .projects{
-        width: 1200px;
+        width: 960px;
     }
     .contact{
-        width: 1200px;
+        width: 960px;
     }
 }
+
+@media only screen and (min-width: 1024px){
+    .home {
+        width: 1024px;
+    }
+    .about{
+        width: 1024px;
+    }
+    .projects{
+        width: 1024px;
+    }
+    .contact{
+        width: 1024px;
+    }
+}
+
+@media only screen and (min-width: 1280px){
+    .home {
+        width: 1280px;
+    }
+    .about{
+        width: 1280px;
+    }
+    .projects{
+        width: 1280px;
+    }
+    .contact{
+        width: 1280px;
+    }
+}
+
+@media only screen and (min-width: 1366px){
+    .home {
+        width: 1366px;
+    }
+    .about{
+        width: 1366px;
+    }
+    .projects{
+        width: 1366px;
+    }
+    .contact{
+        width: 1366px;
+    }
+}
+
+@media only screen and (min-width: 1400px){
+    .home {
+        width: 1400px;
+    }
+    .about{
+        width: 1400px;
+    }
+    .projects{
+        width: 1400px;
+    }
+    .contact{
+        width: 1400px;
+    }
+}
+
+@media only screen and (min-width: 1440px){
+    .home {
+        width: 1440px;
+    }
+    .about{
+        width: 1440px;
+    }
+    .projects{
+        width: 1440px;
+    }
+    .contact{
+        width: 1440px;
+    }
+}
+
+
 
 @media only screen and (min-width: 1600px){
     .home {
@@ -131,5 +208,65 @@
     }
     .contact{
         width: 1600px;
+    }
+}
+
+@media only screen and (min-width: 1856px){
+    .home {
+        width: 1856px;
+    }
+    .about{
+        width: 1856px;
+    }
+    .projects{
+        width: 1856px;
+    }
+    .contact{
+        width: 1856px;
+    }
+}
+
+@media only screen and (min-width: 1920px){
+    .home {
+        width: 1920px;
+    }
+    .about{
+        width: 1920px;
+    }
+    .projects{
+        width: 1920px;
+    }
+    .contact{
+        width: 1920px;
+    }
+}
+
+@media only screen and (min-width: 2048px){
+    .home {
+        width: 2048px;
+    }
+    .about{
+        width: 2048px;
+    }
+    .projects{
+        width: 2048px;
+    }
+    .contact{
+        width: 2048px;
+    }
+}
+
+@media only screen and (min-width: 2560px){
+    .home {
+        width: 2560px;
+    }
+    .about{
+        width: 2560px;
+    }
+    .projects{
+        width: 2560px;
+    }
+    .contact{
+        width: 2560px;
     }
 }
